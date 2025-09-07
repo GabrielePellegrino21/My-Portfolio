@@ -1,0 +1,19 @@
+{
+    "content": {
+        "app1": {
+            "title": "Developer Helper",
+            "name": "youtube.it",
+            "width": 500
+        },
+        "app2": {
+            "title": "MyGym",
+            "name": "youtube.it",
+            "width": 700
+        },
+        "app3": {
+            "title": "Music Player",
+            "name": "spotify.com",
+            "width": 600
+        }
+    }
+}
