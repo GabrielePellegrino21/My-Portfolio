@@ -95,12 +95,14 @@
             </div>
             <div class="container-card">
                 <div class="inner-containter_card">
+                    <a href="https://devtools-hub-one.vercel.app" target="_blank">
                     <div class="main-card">
                         <div class="sub-card"></div>
                         <span>
-                            <a href="https://devtools-hub-one.vercel.app" target="_blank">DevTools</a>
+                            DevTools
                         </span>
                     </div>
+                </a>
 
                     <div class="main-card">
                         <div class="sub-card"></div>
