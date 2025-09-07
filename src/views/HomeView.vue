@@ -98,7 +98,7 @@
                     <div class="main-card">
                         <div class="sub-card"></div>
                         <span>
-                           DevelepHelper
+                            <a href="https://devtools-hub-one.vercel.app" target="_blank">DevTools</a>
                         </span>
                     </div>
 
